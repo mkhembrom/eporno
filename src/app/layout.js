@@ -8,11 +8,6 @@ import { store } from './store'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Eporno',
-  description: 'Explore idea for video data',
-}
-
 export default function RootLayout({ children }) {
 
 
